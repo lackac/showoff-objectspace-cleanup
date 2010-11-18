@@ -1,0 +1,9 @@
+source :rubygems
+
+# Project requirements
+gem 'rake'
+gem 'haml'
+
+gem 'sinatra'
+
+gem 'thin'

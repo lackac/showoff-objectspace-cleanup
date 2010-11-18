@@ -1,0 +1,14 @@
+!!! Strict
+%html
+  %head
+    %title Padrino Application
+    = stylesheet_link_tag 'application'
+  %body
+    #header
+      %h1 Padrino Application
+      %ul.menu
+        %li= link_to 'About', url_for(:about)
+    #container
+      #main= yield
+    #footer
+      All Rights Reserved

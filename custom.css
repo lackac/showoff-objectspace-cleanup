@@ -1,0 +1,21 @@
+.bullets ol {
+  list-style-type: decimal;
+  font-size: 3em;
+}
+.bullets ol li {
+  text-align: center;
+  padding: 25px;
+}
+
+.smbullets ol {
+  list-style-type: decimal;
+  font-size: 2em;
+}
+.smbullets ol li {
+  text-align: center;
+  padding: 10px;
+}
+
+pre {
+  font-size: 1.8em;
+}

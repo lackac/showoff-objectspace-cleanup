@@ -1,0 +1,11 @@
+{
+  "name": "ObjectSpace.cleanup",
+  "sections": [
+    { "section" : "intro" },
+    { "section" : "mem_and_speed" },
+    { "section" : "object_counter" },
+    { "section" : "memprof" },
+    { "section" : "gc" },
+    { "section" : "outro" }
+  ]
+}

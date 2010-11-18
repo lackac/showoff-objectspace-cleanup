@@ -1,0 +1,5 @@
+Web frameworks benchmark.
+
+* To start and stop servers: './benchmark.rb start|stop'.
+* Use './benchmark.rb run' against already booted servers.
+* Run './benchmark.rb' without arguments for further help.
