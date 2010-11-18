@@ -16,6 +16,12 @@
   padding: 10px;
 }
 
+h4 {
+  text-align: center;
+  font-size: 12px;
+  font-weight: normal;
+}
+
 pre {
   font-size: 1.8em;
 }

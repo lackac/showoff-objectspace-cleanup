@@ -1,4 +1,5 @@
 !SLIDE 
 # ObjectSpace.cleanup
 ## László Bácsi
-## [github.com/lackac](http://github.com/lackac)
+## [icanscale.com](http://icanscale.com/)
+## [github.com/lackac](https://github.com/lackac/)
